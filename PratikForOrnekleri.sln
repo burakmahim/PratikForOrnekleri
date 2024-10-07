@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PratikForOrnekleri", "PratikForOrnekleri\PratikForOrnekleri.csproj", "{AFE1B5C4-29E5-4E51-BF39-92FDCDC8AB0C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Çözüm Öğeleri", "Çözüm Öğeleri", "{AA0ADF5A-573F-46A1-B368-2BC03576A468}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFE1B5C4-29E5-4E51-BF39-92FDCDC8AB0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE1B5C4-29E5-4E51-BF39-92FDCDC8AB0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE1B5C4-29E5-4E51-BF39-92FDCDC8AB0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE1B5C4-29E5-4E51-BF39-92FDCDC8AB0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D268C9F5-451A-49F4-ACD0-7266C9F27F30}
+	EndGlobalSection
+EndGlobal
